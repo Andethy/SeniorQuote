@@ -1,4 +1,4 @@
-# Senior Quote Encryption ALgorithm
- Encryption algorithm created for senior quote.
+# Senior Quote Endoding ALgorithm
+ Encoding algorithm created for senior quote.
  
- Run Unix executable 'Quote-D&E' in terminal with argument sys.argv[1] = 'd' to decrypt message (Mac only).
+ Run Unix executable 'Quote-D&E' in terminal with argument sys.argv[1] = 'd' to decode, sys.argv[1] = 'e' to encode message (Mac only).
